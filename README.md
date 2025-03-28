@@ -26,12 +26,6 @@ Digite o primeiro número: 20 Digite o segundo número: 10
 #### Saída:
 O segundo parâmetro deve ser maior que o primeiro
 
----
-
-## Estrutura do Projeto
-DesafioControleFluxo/ ├── src/ │ ├── Contador.java # Classe principal que contém a lógica do programa │ ├── ParametrosInvalidosException.java # Classe que define a exceção customizada └── README.md # Documentação do projet
-
----
 
 ## Classes
 
